@@ -1,0 +1,4 @@
+class QStrings {
+  QStrings._();
+
+}
